@@ -1,0 +1,15 @@
+.cart-sumary{
+    width: 20%;
+    float: left;
+    border: 1px solid gray;
+    border-radius: 5px;
+    margin: 5px;
+}
+.cart-sumary h5{
+    margin: 5px;
+    /* text-decoration: underline 1px solid rgb(74, 68, 68); */
+}
+.productElement{
+    width: 70%;
+    float: left;
+}

@@ -1,9 +1,12 @@
 import React, { Fragment } from 'react';
+import Header from './components/Header';
+import Shop from './components/shop/Shop';
 
 function App() {
   return (
      <Fragment>
-        <h1>It is Ecommerce Amazon</h1>
+         <Header></Header>
+         <Shop></Shop>
      </Fragment>
   );
 }
