@@ -46,7 +46,7 @@ const Shop = () => {
                 }
            </div>
             <div className='cart-sumary'>
-                <h5>Cart Sumary</h5>
+                <h5>Cart Sumaryy</h5>
                 <h5>Order sumary: {cart.length}</h5>
             </div>
         </>
